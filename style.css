@@ -13,3 +13,40 @@ h1 {
 p {
     font-size: 18px;
 }
+/* Body styling */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+}
+
+/* Headings */
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+h2 {
+    color: #ff4500;
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* List items */
+ul li {
+    margin: 5px 0;
+}
+
+/* Button styling (agar JS button hai) */
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
